@@ -1,0 +1,18 @@
+
+    img{
+        max-width: 90%;
+        }
+        h1{
+        color: white;
+        }
+        html {
+        text-align: auto;
+        background-color: black;
+        }
+        p{
+        border: 200px;
+        border-color: white;
+        }
+        label{
+        color: white;
+        }
