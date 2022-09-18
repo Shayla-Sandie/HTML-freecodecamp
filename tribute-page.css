@@ -1,11 +1,22 @@
 *{
   text-align: center;
-  background-color: black;
-  color: white;
+  background-color: #e6ebec;;
+  color: #000000;
+  margin: 25px;
 }
-h1 { 
- font-size: 40px;
- background-color: #4C9CD3;
+
+a {
+  background-color: #000000;
+  color:#e6ebec;
+  box-shadow: #C3C5C6;
+  font-size: 20px;
+}
+h1 {
+  font-size: 50px;
+}
+div { 
+ background-color: #ee3535 ;
+ background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNB_lDwYXUaP6A1RPah9BVsbObCUoYiAd1_Q&usqp=CAU")
 }   
 li{
   padding: 100px;
@@ -24,11 +35,42 @@ color:white;
   border: 0;
 }
 #image{   
-  max-width: 100%; 
+  max-width: 90%; 
   height:auto;
 }
 img{
   display: block;
 }
-
+.headlines {
+  font-size: 30px;
+  text-align: left;
+ ackground-color: #E8C533;
+  font-style: bold;
+}
+  ul > li {
+  Background-color: #ee3535;
+  max-width: 900px;
+  padding: 25px;
+  color: #000000;
+  font-size: 20px;
+}
+h3{
+  background-color: black;
+}
+.quiz{
+  font-size: 35px;
+}
+ol > li{
+  color: #000000;
+  text-align: left;
+}
+button{
+  font-size:15px;
+}
+ .correct:hover{
+  background-color: green;
+}
+.incorrect:hover{
+  background-color: red;
+}
 
